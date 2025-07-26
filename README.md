@@ -19,6 +19,11 @@ An AI-powered application that automatically transcribes meeting audio files and
 - **Action Items** with assigned owners and due dates
 - Professional markdown formatting ready for documentation
 
+## UI Examples
+<img width="2555" height="1266" alt="image" src="https://github.com/user-attachments/assets/2fc32b0a-82ce-42df-aea7-9688c1436ccc" />
+<img width="1950" height="892" alt="image" src="https://github.com/user-attachments/assets/9a49917d-5dc3-412c-a83d-2d4d21fb9f41" />
+<img width="1758" height="1143" alt="image" src="https://github.com/user-attachments/assets/a2451ae5-acee-45ce-b063-710dc80197e9" />
+
 ## 🚀 Quick Start
 
 ### Prerequisites

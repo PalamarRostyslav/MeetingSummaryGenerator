@@ -1,0 +1,15 @@
+# Core dependencies
+torch>=2.0.0
+transformers>=4.30.0
+gradio>=4.0.0
+openai>=1.0.0
+huggingface-hub>=0.16.0
+datasets>=2.14.0
+
+# Quantization and optimization
+bitsandbytes>=0.41.0
+accelerate>=0.20.0
+
+# Environment and utilities
+python-dotenv>=1.0.0
+typing-extensions>=4.0.0
